@@ -1,3 +1,5 @@
 ---
+- name: INCLUDE | Enable I2C and SPI modules
+  import_tasks: modules.yml
 - name: INCLUDE | Install infoscreen for rack pi
   import_tasks: infoscreen.yml

@@ -1,0 +1,3 @@
+---
+- name: INCLUDE | Install infoscreen for rack pi
+  import_tasks: infoscreen.yml

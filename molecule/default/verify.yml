@@ -1,0 +1,14 @@
+---
+- name: Verify
+  hosts: all
+  tasks:
+    # script check
+    - name: Check if script is present
+      stat:
+        path: "/home/rackpi/infoscreen.py"
+      register: infoscreen_file
+
+    - name: Check installation
+      assert:
+        that:
+          - "infoscreen_file.stat.exists"

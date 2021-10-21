@@ -15,7 +15,7 @@ name: Release
 
 defaults:
   run:
-    working-directory: 'vvision.rack-pi'
+    working-directory: 'vvision.rack_pi'
 
 jobs:
 
@@ -26,7 +26,7 @@ jobs:
       - name: Check out the codebase.
         uses: actions/checkout@v2
         with:
-          path: 'vvision.rack-pi'
+          path: 'vvision.rack_pi'
 
       - name: Set up Python 3.
         uses: actions/setup-python@v2

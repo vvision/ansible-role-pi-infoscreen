@@ -2,5 +2,4 @@
 rack_pi_script_directory: '/home/rackpi'
 # I2C and SPI should be kept enable for infoscreen
 # Used for deployment in test container with no i2c module available
-rack_pi_enable_i2c: true
-rack_pi_enable_spi: true
+is_test: false

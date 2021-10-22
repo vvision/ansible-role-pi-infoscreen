@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: vvision.rack_pi
+    - role: vvision.pi_infoscreen

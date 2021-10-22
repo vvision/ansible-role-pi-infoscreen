@@ -2,9 +2,9 @@
 dependencies: []
 
 galaxy_info:
-  role_name: rack_pi
+  role_name: pi_infoscreen
   author: vvision
-  description: rackPi
+  description: infoscreen on a raspberry pi
   license: "MIT"
   min_ansible_version: 2.6
   galaxy_tags:

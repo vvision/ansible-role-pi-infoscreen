@@ -15,7 +15,7 @@ name: Release
 
 defaults:
   run:
-    working-directory: 'vvision.rack_pi'
+    working-directory: 'vvision.pi_infoscreen'
 
 jobs:
 

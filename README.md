@@ -1,6 +1,6 @@
-# ansible-role-rack-pi
+# ansible-role-pi-infoscreen
 
-[![CI](https://github.com/vvision/ansible-role-rack-pi/workflows/CI/badge.svg?event=push)](https://github.com/vvision/ansible-role-rack-pi/actions?query=workflow%3ACI)
+[![CI](https://github.com/vvision/ansible-role-pi-infoscreen/workflows/CI/badge.svg?event=push)](https://github.com/vvision/ansible-role-pi-infoscreen/actions?query=workflow%3ACI)
 
 Install Rack Pi on Raspberry Pi OS.
 

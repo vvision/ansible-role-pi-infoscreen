@@ -5,3 +5,6 @@
 
   roles:
     - role: vvision.pi_infoscreen
+      vars:
+        rack_pi_enable_i2c: false
+        rack_pi_enable_spi: false

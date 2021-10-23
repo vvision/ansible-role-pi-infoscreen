@@ -2,7 +2,9 @@
 
 [![CI](https://github.com/vvision/ansible-role-pi-infoscreen/workflows/CI/badge.svg?event=push)](https://github.com/vvision/ansible-role-pi-infoscreen/actions?query=workflow%3ACI)
 
-Install Rack Pi on Raspberry Pi OS.
+Install infoscreen script on Raspberry Pi OS.
+
+Based on Thingiverse [RackPi](https://www.thingiverse.com/thing:3022136).
 
 ## Requirements
 
